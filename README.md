@@ -1,7 +1,7 @@
 # Skeleton Repo for the solutions for the awesome [tutorial](https://github.com/stevekane/promise-it-wont-hurt) on Promises.
 This repo contains all the source files for the solutions of the `promise it won't hurt` exercises. The tutorial is meant to give you a hands on understanding of how to use promises.
 
-Base repository of the [promises-applied](https://github.com/GuildCrafts/web-development-js/issues/186) goal.
+Base repository of the [promises-applied](http://jsdev.learnersguild.org/goals/186) goal.
 
 ## Getting Started
 
